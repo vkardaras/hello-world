@@ -1,2 +1,6 @@
 # hello-world
-this is a test repository
+
+Hi humans,
+
+Vasilis here, I am a freelancer and make applications for mobile and web
+
